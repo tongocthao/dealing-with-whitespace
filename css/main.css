@@ -9,6 +9,11 @@ html {
   box-sizing: inherit;
 }
 
+body {
+  font-family: "Crimson Text", serif;
+  font-size: 1.125rem;
+}
+
 header p {
   margin: 2px;
 }
